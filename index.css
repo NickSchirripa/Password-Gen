@@ -1,0 +1,86 @@
+body {
+    width: 550px;
+    height: 550px;
+    background: #ECFDF5;
+    margin: 0;
+}
+#horizontal-line {
+    margin-left: 56px;
+    margin-right: 56px;
+    width: 446px;
+}
+
+h1 {
+    margin-left: 52px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-family: karla;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: -0.05em;
+}
+
+#top-h1 {
+    margin-top: 115px;
+    color: #2B283A;
+
+}
+
+#bottom-h1 {
+    color: #10B981
+}
+
+p {
+    margin: 13px 0px 0px 52px;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 20px;
+    color: #6B7280
+}
+
+#button-el {
+    margin-left: 56px;
+      
+}
+
+#pass-butt {
+    margin: 51px 0px 35px 52px;
+    width: 191px;
+    height: 42px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    background: #10B981;
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 16px;
+       
+}
+
+.bottom-butts {
+    width: 211px;
+    height: 39px;
+    border: none;
+    border-radius: 5px;
+    background: #273549;
+    margin-top: 35px;
+    margin-right: 24px;
+}
+
+#button-1 {
+    color: white;
+    width: 211px;
+    height: 39px;
+    border: none;
+    border-radius: 5px;
+    background: #273549;
+    margin-top: 35px;
+    margin-right: 24px;
+    margin-left: 56px
+}
+
+#button2 {
+    color: white;
+}
